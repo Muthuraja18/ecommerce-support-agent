@@ -116,6 +116,8 @@ python src/evaluation.py
 
 Citation coverage
 System performance
+
+
 📂 Project Structure
 ecommerce-support-agent/
 │
@@ -135,6 +137,7 @@ ecommerce-support-agent/
 ├── app.py
 ├── requirements.txt
 └── README.md
+
 ⚠️ Notes
 Ensure policy documents exist in data/policies/
 Do NOT commit API keys
@@ -143,8 +146,5 @@ If FAISS fails → reinstall dependencies
 
 ---
 
-## ⚙️ Setup Instructions
-
-### 1️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
