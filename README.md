@@ -76,6 +76,69 @@ Policy dataset includes:
 - Flipkart Policies
 - Synthetic internal policy documents
 
+🚀 Setup Instructions
+1️⃣ Clone the Repository
+git clone https://github.com/Muthuraja18/ecommerce-support-agent.git
+
+cd ecommerce-support-agent
+
+2️⃣ Create Virtual Environment (Recommended)
+python -m venv myenv
+myenv\Scripts\activate   # Windows
+
+3️⃣ Install Dependencies
+pip install -r requirements.txt
+
+4️⃣ Set API Key (Groq)
+Windows (PowerShell):
+setx GROQ_API_KEY "your_groq_api_key"
+Temporary (current session):
+$env:GROQ_API_KEY="your_groq_api_key"
+
+5️⃣ Build Vector Database (FAISS)
+python -m src.vector_store
+
+👉 This will:
+
+Load policy documents
+Split into chunks
+Create FAISS index
+6️⃣ Run the Application
+streamlit run app.py
+
+👉 Open in browser:
+
+http://localhost:8501
+7️⃣ Run Evaluation
+python src/evaluation.py
+
+👉 Outputs:
+
+Citation coverage
+System performance
+📂 Project Structure
+ecommerce-support-agent/
+│
+├── data/
+│   ├── policies/
+│   └── test_cases.json
+│
+├── src/
+│   ├── agents.py
+│   ├── crew.py
+│   ├── tasks.py
+│   ├── tools.py
+│   ├── ingestion.py
+│   ├── vector_store.py
+│   └── evaluation.py
+│
+├── app.py
+├── requirements.txt
+└── README.md
+⚠️ Notes
+Ensure policy documents exist in data/policies/
+Do NOT commit API keys
+If FAISS fails → reinstall dependencies
 📅 Accessed: March 2026
 
 ---
