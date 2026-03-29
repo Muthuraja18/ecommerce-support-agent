@@ -1,0 +1,5 @@
+Policy: Fraud & Security
+
+- Suspicious transactions may be flagged.
+- Orders may be cancelled if fraud is detected.
+- Customers may be asked for identity verification.

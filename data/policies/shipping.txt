@@ -1,0 +1,5 @@
+Policy: Shipping & Delivery
+
+- Late delivery may qualify for compensation.
+- Lost packages are refunded or replaced.
+- Delivery delays due to weather are not refundable.

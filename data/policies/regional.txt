@@ -1,0 +1,5 @@
+Policy: Regional Rules
+
+- Return policies may vary by country/state.
+- EU customers have a 14-day return window.
+- Some regions restrict returns for specific categories.

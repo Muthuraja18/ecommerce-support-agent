@@ -1,0 +1,4 @@
+Policy: Hygiene Products
+
+- Hygiene items cannot be returned once opened.
+- Unopened items may be returned within 7 days.

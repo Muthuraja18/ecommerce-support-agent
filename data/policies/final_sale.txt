@@ -1,0 +1,4 @@
+Policy: Final Sale
+
+- Final sale items cannot be returned or refunded.
+- These items are marked clearly during purchase.

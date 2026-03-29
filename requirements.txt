@@ -1,0 +1,9 @@
+crewai
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+streamlit
+python-dotenv
+langchain-text-splitters
+groq

@@ -1,0 +1,6 @@
+Policy: Promotions & Coupons
+
+- Coupons must be applied at checkout.
+- Expired coupons cannot be applied.
+- Promotions cannot be combined unless specified.
+- Cashback offers are credited after successful delivery.

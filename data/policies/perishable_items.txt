@@ -1,0 +1,5 @@
+Policy: Perishable Items
+
+- Food and perishable items are non-refundable.
+- Exception: If damaged, spoiled, or melted during delivery.
+- Claims must include proof of damage.

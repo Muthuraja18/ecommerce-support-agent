@@ -1,0 +1,7 @@
+Policy: Returns & Refunds
+
+- Items can be returned within 30 days.
+- Final sale items cannot be returned.
+- Perishable items (food) are non-refundable unless damaged.
+- Opened items are not eligible for return.
+- Refunds are issued after inspection.

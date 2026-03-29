@@ -1,0 +1,6 @@
+Policy: Disputes
+
+- Customers can raise disputes for damaged, missing, or incorrect items.
+- Claims must be raised within 48 hours of delivery.
+- Evidence (photos/videos) may be required.
+- Refund or replacement depends on investigation.

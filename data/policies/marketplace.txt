@@ -1,0 +1,5 @@
+Policy: Marketplace Orders
+
+- Marketplace orders are fulfilled by third-party sellers.
+- Return and refund policies may differ.
+- Customers must contact seller for resolution.

@@ -1,0 +1,5 @@
+Policy: Payments
+
+- Payments can be made via card, UPI, or wallet.
+- Failed transactions are refunded within 3-5 days.
+- COD orders must be paid at delivery.

@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual Env
+myenv/
+venv/
+
+# Streamlit
+.streamlit/
+
+# Secrets
+.env
+
+# FAISS index (optional)
+data/faiss_index/
+
+# OS files
+.DS_Store
+Thumbs.db

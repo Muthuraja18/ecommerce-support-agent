@@ -1,0 +1,6 @@
+Policy: Cancellations
+
+- Orders can be cancelled before shipment.
+- Once shipped, cancellation is not allowed.
+- Refunds for cancelled orders are processed within 5-7 business days.
+- Marketplace seller orders follow seller cancellation policies.
